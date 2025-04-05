@@ -42,6 +42,7 @@ public class ToCreateContactTest extends BaseClass {
 		
 	
 		Assert.assertTrue(name.contains(LASTNAME));
+		System.out.println("-----");
 
 	}
 }
